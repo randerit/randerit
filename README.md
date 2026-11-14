@@ -30,5 +30,6 @@ Mi trabajo profesional en visión computacional y edge se desarrolla en reposito
 
 ## Contacto
 
+- Portafolio: [randerit.github.io](https://randerit.github.io/)
 - LinkedIn: [linkedin.com/in/jfosval](https://www.linkedin.com/in/jfosval)
 - Correo: [jfosorioval@gmail.com](mailto:jfosorioval@gmail.com)
