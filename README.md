@@ -24,7 +24,7 @@ Me interesa llevar modelos de visión desde el experimento hasta un sistema que 
 
 ## Proyecto destacado
 
-**[Ubuntu-NVIDIA-Setup-Docs](https://github.com/randerit/Ubuntu-NVIDIA-Setup-Docs)**: documentación para preparar equipos con Ubuntu y drivers gráficos NVIDIA de forma correcta y repetible.
+**[ubuntu-nvidia-workstation-setup](https://github.com/randerit/ubuntu-nvidia-workstation-setup)**: documentación para preparar equipos con Ubuntu y drivers gráficos NVIDIA de forma correcta y repetible.
 
 Mi trabajo profesional en visión computacional y edge se desarrolla en repositorios privados; puedo mostrar su arquitectura y resultados en una conversación.
 
